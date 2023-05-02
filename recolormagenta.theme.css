@@ -1,0 +1,40 @@
+/**
+ * @name recolormagenta
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 237,0,93;
+  --accentcolor2: 255,115,250;
+  --linkcolor: 0,176,244;
+  --mentioncolor: 255,0,85;
+  --textbrightest: 255,255,255;
+  --textbrighter: 255,255,255;
+  --textbright: 199,96,96;
+  --textdark: 255,255,255;
+  --textdarker: 95,95,95;
+  --textdarkest: 113,113,113;
+  --font: gg sans;
+  --backgroundaccent: 50,30,40;
+  --backgroundprimary: 20,5,15;
+  --backgroundsecondary: 20,13,18;
+  --backgroundsecondaryalt: 15,9,14;
+  --backgroundtertiary: 10,6,9;
+  --backgroundfloating: 0,0,0;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
