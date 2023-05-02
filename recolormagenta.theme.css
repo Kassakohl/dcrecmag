@@ -20,11 +20,11 @@
   --linkcolor: 0,176,244;
   --mentioncolor: 255,0,85;
   --textbrightest: 255,255,255;
-  --textbrighter: 255,255,255;
+  --textbrighter: 222,222,222;
   --textbright: 185,185,185;
-  --textdark: 255,255,255;
-  --textdarker: 95,95,95;
-  --textdarkest: 113,113,113;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
   --font: gg sans;
   --backgroundaccent: 50,30,40;
   --backgroundprimary: 20,5,15;
